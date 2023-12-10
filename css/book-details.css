@@ -1,0 +1,37 @@
+.book-details {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.book-info {
+    padding-left: 200px;
+}
+
+.book-image img{
+    width: 250px;
+}
+
+.book-image button {
+    padding: 8px 99px;
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: green;
+    border: 0;
+    color: white;
+}
+
+.book-info img {
+    width: 150px;
+}
+
+.book-info .rate {
+    font-size: 25px;
+}
+
+.rating-image, .rate {
+    display: inline-block;
+    padding-bottom: 10px;
+}
+

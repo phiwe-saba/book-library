@@ -8,7 +8,8 @@ export const books = [
             stars: 4.5,
             count: 6000
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     },
     {
         id: "2",
@@ -19,7 +20,8 @@ export const books = [
             stars: 3.5,
             count: 12
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     },
     {
         id: "3",
@@ -30,7 +32,8 @@ export const books = [
             stars: 5,
             count: 5000
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     },
     {
         id: "4",
@@ -41,7 +44,9 @@ export const books = [
             stars: 2.5,
             count: 50
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "5",
@@ -52,7 +57,9 @@ export const books = [
             stars: 3,
             count: 120
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "6",
@@ -63,7 +70,9 @@ export const books = [
             stars: 5,
             count: 3500
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "7",
@@ -74,7 +83,9 @@ export const books = [
             stars: 5,
             count: 2000
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "8",
@@ -85,7 +96,9 @@ export const books = [
             stars: 4.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "9",
@@ -96,7 +109,9 @@ export const books = [
             stars: 3.5,
             count: 1230
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "10",
@@ -107,7 +122,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "11",
@@ -118,7 +135,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "12",
@@ -129,7 +148,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "13",
@@ -140,7 +161,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "14",
@@ -151,7 +174,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "15",
@@ -162,7 +187,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "16",
@@ -173,7 +200,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "17",
@@ -184,7 +213,8 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     },
     {
         id: "18",
@@ -195,7 +225,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "19",
@@ -206,7 +238,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "20",
@@ -217,7 +251,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "21",
@@ -228,7 +264,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "22",
@@ -239,7 +277,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "23",
@@ -250,7 +290,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "24",
@@ -261,7 +303,8 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     },
     {
         id: "25",
@@ -272,7 +315,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "26",
@@ -283,7 +328,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "27",
@@ -294,7 +341,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "28",
@@ -305,7 +354,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "29",
@@ -316,7 +367,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "30",
@@ -327,7 +380,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "31",
@@ -338,7 +393,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "32",
@@ -349,7 +406,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "33",
@@ -360,7 +419,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "34",
@@ -371,7 +432,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "35",
@@ -382,7 +445,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "36",
@@ -393,7 +458,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "37",
@@ -404,7 +471,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "38",
@@ -415,7 +484,9 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     },
     {
         id: "39",
@@ -426,7 +497,8 @@ export const books = [
             stars: 3.5,
             count: 123
         },
-        price: 500
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
     }
 
 ]
