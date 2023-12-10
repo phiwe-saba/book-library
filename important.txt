@@ -1,0 +1,11 @@
+<label for="">Title:</label>
+    <input type="text" placeholder="title" class="js-title-input"><br>
+
+    <label for="">Author:</label>
+    <input type="text" placeholder="author" class="js-author-input"><br>
+
+    <label for="">Year Published:</label>
+    <input type="text" placeholder="year" class="js-year-input">
+    <button onclick="addBookToLibrary();">Add</button>
+
+    <div class="js-book-list"></div>

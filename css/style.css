@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+nav a{
+    text-decoration: none;
+    font-size: 45px;
+    color: rgb(255, 134, 28);
+    font-family: 'Dancing Script', cursive;
+}
+
+.header-section{
+    background-color: #232F3E;
+    min-height: 300px;
+}
+
+.header-section h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+
+/* Main Section */
+img{
+    width: 100px;
+    object-fit: contain;
+}
+
+.books-grid {
+    margin-top: 10px;
+}
+
+.book-preview {
+    vertical-align: bottom;
+    display: inline-block;
+}
+
+.book-title {
+    font-size: 15px;
+}
+
+.author {
+    font-size: 15px;
+}
