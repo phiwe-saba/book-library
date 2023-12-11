@@ -1,0 +1,53 @@
+.checkout-container {
+    display: flex;
+    padding: 30px;
+}
+
+.book-image {
+    width: 100%;
+}
+
+.book-details {
+    padding-left: 20px;
+    margin: 0 15px;
+}
+
+.book-details .quantity select {
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid;
+}
+
+.book-details .quantity button {
+    background-color: red;
+    padding: 5px 8px;
+    border: none;
+    color: white;
+    margin-left: 5px; 
+}
+
+.billing {
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.order-summary {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-summary .total {
+    font-weight: bold;
+}
+
+.billing button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 170px;
+}
+
+.billing h1, .details {
+    padding-top: 10px;
+    margin: 0 20px;
+}
