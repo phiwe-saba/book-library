@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         getBookSummary(bookId);
 
         document.getElementById('js-add-to-cart').addEventListener('click', () => {
-            console.log(bookId)
+            console.log('Phiwe', bookId)
             addToCart(bookId);
         });
     } else {

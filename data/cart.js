@@ -1,15 +1,19 @@
-const cart = [];
+export const cart = [];
 
 export function addToCart(bookId) {
-    let matchingItem;
+    const cartItems = JSON.parse(localStorage.getItem('cart')) || [];
 
-    console.log('Saba')
+    const existingCartItem = cartItems.find(book => book.id === bookId);
 
-    cart.forEach((cartItem) => {
-        if(bookId === cartItem.bookId) {
-            matchingItem = cartItem;
-            
-        }
-    });
-    console.log('inside function', matchingItem);
+    if (existingCartItem) {
+        console.log('Book already exists');
+    } else {
+        const newCartItem = {
+            id: bookId,
+            quantity: 1
+        };
+        cartItems.push(newCartItem);
+    }
+
+    console.log(cartItems);
 }
