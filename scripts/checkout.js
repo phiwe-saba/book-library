@@ -1,10 +1,14 @@
 import { books } from "../data/books.js";
 import { cart } from "../data/cart.js";
 
-/*document.addEventListener("DOMContentLoaded", function() {
+/*let cartHTML = '';
+
+document.addEventListener("DOMContentLoaded", function() {
     const cartItem = JSON.parse(localStorage.getItem('cart')) || [];
 
     const cartDetailsElement = document.querySelector('.js-details-container');
+
+    console.log(cartDetailsElement);
 
     if (cartDetailsElement) {
         if (cartItem.length > 0) {
@@ -42,18 +46,21 @@ import { cart } from "../data/cart.js";
             });
 
             console.log(cartHTML);
-            cartDetailsElement.innerHTML = cartHTML;
+            document.querySelector('.js-details-container').innerHTML = cartHTML;
         }
     }
 });*/
 
+
 let cartHTML = '';
 
-console.log(cartHTML);
+//console.log(cartHTML);
 
 cart.forEach((cartItems) => {
     const bookId = cartItems.bookId;
 
+    console.log(bookId);
+    
     books.forEach((book) => {
         if (book.id === bookId) {
             matchingItem = book;
@@ -91,5 +98,5 @@ cart.forEach((cartItems) => {
     `;
 });
 
-console.log(cartHTML);
+console.log('ssss',cartHTML);
 document.querySelector('.js-details-container').innerHTML = cartHTML;

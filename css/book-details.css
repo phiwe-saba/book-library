@@ -1,12 +1,13 @@
 .book-details {
-    display: grid;
-    grid-template-columns: 100px 1fr;
+    display: flex;
+    justify-content: space-between;
     margin-top: 20px;
     padding: 30px;
 }
 
 .book-info {
-    padding-left: 200px;
+    margin: 30px;
+    padding: 10px;
 }
 
 .book-image img{
@@ -30,8 +31,32 @@
     font-size: 25px;
 }
 
+.book-rec {
+    padding: 10px;
+}
+
+.book-rec .rec{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.book-rec .rec img {
+    width: 200px;
+}
+
+.book-rec .rec h3 img {
+    position: sticky; 
+    top: 112px;
+}
+
 .rating-image, .rate {
     display: inline-block;
     padding-bottom: 10px;
+}
+
+.book-image img {
+    position: sticky; 
+    top: 112px;
 }
 
