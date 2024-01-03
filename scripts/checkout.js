@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 let cartHTML = '';
 
-//console.log(cartHTML);
+let matchingItem;
 
 cart.forEach((cartItems) => {
     const bookId = cartItems.bookId;

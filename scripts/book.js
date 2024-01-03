@@ -10,6 +10,9 @@ books.forEach((book) => {
                     <img src="${book.image}" alt="">
                 </a>
             </div>
+            <button class="js-preview-book">
+                <a href="#" data-book-id="${book.id}">Rent</a>
+            </button>
         </div>
     `;
 });

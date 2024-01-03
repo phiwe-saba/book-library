@@ -101,19 +101,6 @@ export const books = [
 
     },
     {
-        id: "9",
-        image: "images/52993814._SX318_.jpg",
-        name: "Dolls Of Our Lives",
-        author: "Mary Mahoney & Allison Horrocks",
-        rating: {
-            stars: 3.5,
-            count: 1230
-        },
-        price: 500,
-        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
-
-    },
-    {
         id: "10",
         image: "images/56359706._SX300_.jpg",
         name: "Hollywood Horrors",
@@ -499,6 +486,19 @@ export const books = [
         },
         price: 500,
         description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+    },
+    {
+        id: "9",
+        image: "images/52993814._SX318_.jpg",
+        name: "Dolls Of Our Lives",
+        author: "Mary Mahoney & Allison Horrocks",
+        rating: {
+            stars: 3.5,
+            count: 1230
+        },
+        price: 500,
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa, itaque tempore autem, ullam vel veritatis laudantium enim officiis nemo quasi, dicta praesentium corrupti minus? Omnis fuga voluptatum deserunt ex ea? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed esse non vel, alias fuga pariatur aperiam dolorum numquam tempore possimus, aliquam soluta! Dignissimos, obcaecati! Quidem odit libero vero commodi eveniet?Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati numquam velit vero minima, adipisci a similique accusamus voluptate? A quod maiores sequi, reiciendis repellendus fugiat vero nam? Itaque, accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis incidunt facere eveniet delectus numquam ut recusandae reiciendis fugiat quo qui, modi sunt, eaque voluptatem soluta voluptas non odio. Aliquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus ex delectus! Ipsum quaerat exercitationem expedita placeat. Esse blanditiis, soluta perspiciatis tenetur unde corporis sequi eos cupiditate. Dolores, obcaecati explicabo."
+
     }
 
 ]

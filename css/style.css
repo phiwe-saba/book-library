@@ -1,14 +1,37 @@
+/* Header Section */
 .header-section{
     background-color: rgb(255, 134, 28);
-    min-height: 300px;
+    height: 60vh;
+    display: flex;
+    gap: 5rem;
 }
 
-.header-section h1{
-    text-align: center;
+.header-section .book-details {
+    align-self: center;
+    text-align:inherit;
+    padding-left: 80px;
+}
+
+.header-section .book-details h1, p {
     color: white;
-    font-size: 50px;
-    padding: 100px;
-    font-family: 'Dancing Script', cursive;
+}
+
+.header-section .book-details p {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.header-section .book-slide {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto 0;
+    margin-right: 30rem;
+}
+
+.header-section .book-slide img {
+    width: 100%;
+    padding-top: 80px;
 }
 
 /* Main Section */
@@ -25,4 +48,18 @@ img{
     vertical-align: bottom;
     display: inline-block;
     margin: 15px;
+}
+
+.book-preview button {
+    background-color: green;
+    padding: 5px 48px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.book-preview button a {
+    text-decoration: none;
+    color: white;
 }
